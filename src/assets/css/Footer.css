@@ -1,0 +1,25 @@
+.footer {
+  background-color: var(--footer-color);
+  color: #fff;
+  padding: 10px;
+  height: 250px;
+}
+
+.footer h2,
+.footer h3 {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 500;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+#git {
+  margin-right: 10px;
+}
